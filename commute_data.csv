@@ -94,7 +94,7 @@ year,month,day_num,day_week,there_total_time,there_start_time,there_end_time,the
 2023,3,29,Wednesday,22.27,7.03,7.25,42,37,39,40,DNR,mostly cloudy,17.49,3.51,4.09,59,59,35,35,DNR,partly cloudy,7.36,8,8,n
 2023,3,30,Thursday,20.26,7.15,7.35,38,38,33,54,DNR,sunny,18.03,3.49,4.07,66,66,30,36,DNR,sunny,8.12,8,7,n
 2023,3,31,Friday,22.17,7.43,9.05,54,52,49,46,DNR,sunny,18.14,4.58,5.16,69,69,56,58,DNR,cloudy,9.14,8,9,n
-2023,4,3,Monday,21.1,7.11,7.32,42,42,41,44,DNR,sunny,4.25,4.07,18.14,73,73,45,24,DNR,mostly sunny,DNR,8,9,n
+2023,4,3,Monday,21.1,7.11,7.32,42,42,41,44,DNR,sunny,18.14,4.07,4.25,73,73,45,24,DNR,mostly sunny,DNR,8,9,n
 2023,4,4,Tuesday,21.37,7.23,7.44,App not working,App not working,App not working,App not working,DNR,App not working,17.35,3.57,4.15,83,83,41,37,DNR,sunny,8,7,8,n
 2023,4,5,Wednesday,22.24,7.45,8.07,58,58,57,58,DNR,partly cloudy,17.49,4.25,4.42,85,87,62,59,DNR,partly cloudy,8.07,8,9,n
 2023,4,6,Thursday,21.22,7.18,7.39,69,69,66,49,DNR,mostly cloudy,18.15,4.14,4.32,84,88,66,44,DNR,mostly cloudy,8.22,8,8,n
