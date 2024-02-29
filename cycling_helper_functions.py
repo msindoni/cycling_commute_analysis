@@ -8,12 +8,15 @@ def watch_time_to_sec(df_master, column_name):
             elif len(split_list)==2: #if there is a number with a decimal
                 total_sec=int(split_list[0])*60+int(split_list[1])
         except ValueError:
-            print('not recorded')
+            print('not recorded: ', df_master['year'].iloc[i],
+                  df_master['month'].iloc[i], df_master['day_num'].iloc[i])
 
         #adding second value to list
         seconds_list+=[total_sec]
 
     #adding list to dataframe
     df_master[column_name +'_sec']=seconds_list
+    #adding a normalized seconds list
+    df_master[column_name +'_sec_norm']=df_master[column_name +'_sec']/max(seconds_list)
     
     return df_master

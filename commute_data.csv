@@ -7,7 +7,7 @@ year,month,day_num,day_week,there_total_time,there_start_time,there_end_time,the
 2022,9,22,Thursday,22.11,8.33,8.54,70,70,64,56,DNR,mostly sunny,18.13,5.05,5.23,83,86,67,43,DNR,sunny,8.05,6,7,n
 2022,9,23,Friday,22.2,8.11,8.33,56,55,42,39,DNR,sunny,18.25,12.37,12.55,71,71,36,23,DNR,sunny,8,6,6,n
 2022,9,26,Monday,25.03,9.4,9.15,82,84,62,47,DNR,sunny,21.11,4.44,5.05,79,79,46,31,DNR,sunny,7.43,4,6,n
-2022,9,27,Tuesday,24.39,7.43,8.07,51,51,38,48,DNR,mostly sunny,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,DNR,Forgot,8.11,4,7,n
+2022,9,27,Tuesday,24.39,7.43,8.07,51,51,38,48,DNR,mostly sunny,DNR,DNR,DNR,DNR,DNR,DNR,DNR,DNR,Forgot,8.11,4,7,n
 2022,10,3,Monday,26.32,8.34,8.08,53,50,50,37,DNR,cloudy,20.34,4.45,5.05,62,61,44,18,DNR,mostly cloudy,8.22,8,8,n
 2022,10,4,Tuesday,23.53,8.36,8,47,47,42,27,DNR,mostly sunny,19,4.39,4.58,68,67,40,34,DNR,mostly cloudy,8.05,8,7,n
 2022,10,5,Wednesday,21.34,8.34,8.45,49,49,43,42,DNR,sunny,19.15,4.46,5.05,74,74,52,27,DNR,sunny,9.21,8,7,n
@@ -20,7 +20,7 @@ year,month,day_num,day_week,there_total_time,there_start_time,there_end_time,the
 2022,10,18,Tuesday,23.24,9.03,9.26,46,41,28,39,DNR,sunny,19.16,4.45,5.04,57,54,38,30,DNR,sunny,9.12,5,6,n
 2022,10,19,Wednesday,21.5,9.16,9.38,38,38,32,41,DNR,sunny,19.08,4.45,5.04,58,57,31,21,DNR,partly cloudy,9.41,5,5,n
 2022,10,20,Thursday,22.08,9.52,10.14,50,50,36,43,DNR,sunny,19.06,5.26,5.45,61,61,34,27,DNR,sunny,10.19,5,6,n
-2022,10,21,Friday,22.33,9.51,10.13,50,50,39,55,DNR,sunny,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,DNR,Forgot,9.31,5,7,n
+2022,10,21,Friday,22.33,9.51,10.13,50,50,39,55,DNR,sunny,DNR,DNR,DNR,DNR,DNR,DNR,DNR,DNR,Forgot,9.31,5,7,n
 2022,10,24,Monday,24.17,8.13,8.37,52,52,50,48,DNR,fog,18.09,4.35,4.53,77,78,50,25,DNR,sunny,9.45,8,8,n
 2022,10,25,Tuesday,23.35,7.52,8.15,50,50,49,61,DNR,fog,18.14,4.12,4.3,74,74,54,47,DNR,mostly cloudy,8.38,7,8,n
 2022,10,26,Wednesday,20.48,9.18,9.38,60,59,58,70,DNR,fog,17.52,4.47,5.03,67,67,61,54,DNR,clloudy,8.23,8,8,n
@@ -43,10 +43,10 @@ year,month,day_num,day_week,there_total_time,there_start_time,there_end_time,the
 2022,11,23,Wednesday,20.23,12.48,1.08,67,67,23,49,DNR,sunny,18.46,3.45,4.04,67,67,23,49,DNR,sunny,9.13,8,9,n
 2022,11,29,Tuesday,21.34,8.34,8.55,46,44,40,46,DNR,sunny,20.18,4.47,5.07,59,59,43,44,DNR,sunny,7.37,6,8,n
 2022,12,1,Thursday,21.29,8.14,8.35,40,36,20,36,DNR,mostly sunny,19.52,5.04,5.23,42,42,25,17,DNR,mostly clear,8.23,7,8,n
-2022,12,2,Friday,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,DNR,Forgot,17.48,5.01,5.17,51,51,36,22,DNR,mostly cloudy,8.45,8,8,n
+2022,12,2,Friday,DNR,DNR,DNR,DNR,DNR,DNR,DNR,DNR,Forgot,17.48,5.01,5.17,51,51,36,22,DNR,mostly cloudy,8.45,8,8,n
 2022,12,5,Monday,22,8.29,7.51,30,30,29,57,DNR,mostly sunny,18.47,4.08,4.27,50,50,33,25,DNR,partly cloudy,8.25,6,9,n
-2022,12,6,Tuesday,22.02,7.05,7.27,47,47,43,43,DNR,cloudy,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,DNR,Forgot,7.52,6,8,n
-2022,12,9,Friday,17.26,8.45,9.02,47,44,44,48,DNR,cloudy,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,Forgot,DNR,Forgot,9.1,7,9,start and stop @ safelite
+2022,12,6,Tuesday,22.02,7.05,7.27,47,47,43,43,DNR,cloudy,DNR,DNR,DNR,DNR,DNR,DNR,DNR,DNR,Forgot,7.52,6,8,n
+2022,12,9,Friday,17.26,8.45,9.02,47,44,44,48,DNR,cloudy,DNR,DNR,DNR,DNR,DNR,DNR,DNR,DNR,Forgot,9.1,7,9,start and stop @ safelite
 2022,12,12,Monday,21.36,8,8.21,37,37,34,49,DNR,sunny,17.55,4.3,4.48,47,44,35,31,DNR,mostly cloudy,8.55,6,8,n
 2022,12,13,Tuesday,20.29,7.2,7.41,35,35,29,44,DNR,mostly cloudy,16.45,3.44,4,45,43,30,29,DNR,sunny,8.12,8,8,n
 2022,12,14,Wednesday,21.17,8.09,8.3,33,33,31,65,DNR,partly cloudy,18.31,4.47,5.05,42,41,35,54,DNR,showers,8.13,6,8,n
@@ -94,7 +94,7 @@ year,month,day_num,day_week,there_total_time,there_start_time,there_end_time,the
 2023,3,29,Wednesday,22.27,7.03,7.25,42,37,39,40,DNR,mostly cloudy,17.49,3.51,4.09,59,59,35,35,DNR,partly cloudy,7.36,8,8,n
 2023,3,30,Thursday,20.26,7.15,7.35,38,38,33,54,DNR,sunny,18.03,3.49,4.07,66,66,30,36,DNR,sunny,8.12,8,7,n
 2023,3,31,Friday,22.17,7.43,9.05,54,52,49,46,DNR,sunny,18.14,4.58,5.16,69,69,56,58,DNR,cloudy,9.14,8,9,n
-2023,4,3,Monday,21.1,7.11,7.32,42,42,41,44,DNR,sunny,18.14,4.07,4.25,73,73,45,24,DNR,mostly sunny,DNR,8,9,n
+2023,4,3,Monday,21.1,7.11,7.32,42,42,41,44,DNR,sunny,4.25,4.07,18.14,73,73,45,24,DNR,mostly sunny,DNR,8,9,n
 2023,4,4,Tuesday,21.37,7.23,7.44,App not working,App not working,App not working,App not working,DNR,App not working,17.35,3.57,4.15,83,83,41,37,DNR,sunny,8,7,8,n
 2023,4,5,Wednesday,22.24,7.45,8.07,58,58,57,58,DNR,partly cloudy,17.49,4.25,4.42,85,87,62,59,DNR,partly cloudy,8.07,8,9,n
 2023,4,6,Thursday,21.22,7.18,7.39,69,69,66,49,DNR,mostly cloudy,18.15,4.14,4.32,84,88,66,44,DNR,mostly cloudy,8.22,8,8,n
@@ -188,3 +188,38 @@ year,month,day_num,day_week,there_total_time,there_start_time,there_end_time,the
 2023,11,16,Thursday,22.22,8.55,9.17,53,52,41,63,1,sunny,19.51,5.07,5.27,61,60,50,27,0,mostly clear,9.34,DNR,DNR,n
 2023,11,17,Friday,22.49,8.29,8.51,54,54,50,52,1,partly cloudy,21.16,5.05,5.26,66,66,57,22,0,mostly cloudy,8.26,DNR,DNR,n
 2023,11,28,Tuesday,23.18,7.54,8.17,33,28,24,51,0,sunny,18.52,4.37,4.56,42,37,17,26,0,sunny,7.44,8,9,n
+2023,11,30,Thursday,23.2,8.06,8.29,35,33,27,69,1,mostly cloudy,17.48,4.2,4.38,53,51,35,28,0,sunny,7.49,8,8,n
+2023,12,1,Friday,21.58,9.25,9.47,47,45,37,75,1,drizzle,18.56,4.37,4.54,59,58,53,47,0,cloudy,8.1,8,8,n
+2023,12,5,Tuesday,23.15,8.15,8.38,43,40,35,46,1,sunny,18.09,4.36,4.54,53,52,39,26,0,partly cloudy,7.47,8,8,n
+2023,12,7,Thursday,22.52,8.06,8.29,34,32,27,46,0,sunny,16.57,3.58,4.16,50,49,32,27,0,sunny,7.39,7,7,n
+2023,12,8,Friday,21.42,9.18,9.4,46,43,34,75,1,mostly cloudy,17.28,3.58,4.16,56,54,38,61,0,cloudy,8.34,8,8,n
+2023,12,11,Monday,23.1,8.26,8.49,38,31,30,32,1,sunny,17.56,4.2,4.48,43,41,33,17,0,mostly clear,8.13,7,7,n
+2023,12,13,Wednesday,DNR,DNR,DNR,40,38,32,63,1,cloudy,16.56,4.43,5,51,49,35,23,0,mostly clear,7.23,8,9,n
+2024,1,3,Wednesday,22.01,8.18,8.4,32,30,27,42,0,mostly sunny,19.01,12.32,12.51,52,50,32,48,2,mostly cloudy,7.45,8,9,n
+2024,1,5,Friday,24.12,7.48,8.12,26,25,22,53,0,sunny,18.26,4.24,4.45,45,43,32,25,0,sunny,8.19,7,9,n
+2024,1,8,Monday,23.07,8.14,8.37,34,31,28,36,1,partly cloudy,19.1,4.47,5.06,39,31,29,40,0,sunny,8.11,8,9,n
+2024,1,10,Wednesday,23.43,8.38,8.02,38,31,28,40,0,sunny,19.42,4.06,4.36,47,43,35,20,0,cloudy,7.59,7,8,n
+2024,1,11,Thursday,24.49,8.48,8.13,31,28,29,52,0,sunny,22.23,4,4.22,54,52,38,26,0,sunny,7.58,8,8,construction on Academy on the way home
+2024,1,17,Wednesday,23.47,8.49,8.13,18,12,9,44,0,sunny,19.24,4.49,5.08,34,29,16,28,0,sunny,7.3,8,8,n
+2024,1,22,Monday,22.49,8.57,9.2,27,26,19,91,2,sunny,18.57,5.31,5.5,39,36,24,36,0,clear,7.08,7,7,Fire Sean McDermontt
+2024,1,23,Tuesday,22.31,8.15,8.37,35,33,28,97,1,cloudy,19.2,5.22,5.41,47,45,41,43,0,cloudy,8.21,8,8,n
+2024,1,24,Wednesday,23.24,8.47,9.1,49,48,47,79,1,cloudy,18.26,4.51,5.09,65,66,59,18,0,cloudy,8.48,7,8,n
+2024,1,26,Friday,23.51,9.14,9.38,64,65,63,38,2,cloudy,18.31,4.39,4.57,69,70,63,19,0,mostly cloudy,8.27,8,8,n
+2024,1,29,Monday,21.51,8.12,8.34,43,37,33,45,1,sunny,19.06,5.15,5.34,44,46,34,25,0,sunny,7.35,8,8,n
+2024,1,30,Tuesday,23.39,8.11,8.35,34,31,30,49,1,mostly sunny,18.05,4.58,5.16,48,46,36,23,0,mostly cloudy,8.56,7,8,n
+2024,2,1,Thursday,22.33,8.28,8.5,38,37,33,56,1,sunny,18.3,4.38,4.56,52,51,39,20,0,sunny,8.03,8,8,n
+2024,2,2,Friday,22.1,8.48,9.1,47,46,39,60,1,mostly cloudy,16.58,4.47,5.04,57,55,41,27,0,partly cloudy,8.09,8,6,n
+2024,2,5,Monday,23.34,7.48,8.11,33,28,27,50,0,partly cloudy,17.27,4.46,5.03,52,50,31,26,0,sunny,7.43,8,8,n
+2024,2,6,Tuesday,24.43,8.05,8.3,35,28,27,56,1,sunny,17.25,4.54,5.11,46,41,25,27,0,sunny,7.37,7,8,n
+2024,2,7,Wednesday,25.13,8.01,8.26,31,26,22,49,0,sunny,18.4,11.4,11.59,47,43,24,28,3,sunny,7.45,7,8,n
+2024,2,8,Thursday,21.37,10.16,10.38,45,43,33,58,3,partly cloudy,17.4,5.01,5.23,52,50,36,26,0,mostly cloudy,DNR,7,8,n
+2024,2,13,Tuesday,22.58,8.1,8.33,47,41,37,38,1,windy,16.38,4.09,4.25,54,52,29,26,0,sunny,8.04,8,8,n
+2024,2,14,Wednesday,24.02,7.43,8.07,38,34,31,41,0,sunny,17.04,4.31,4.48,58,56,38,27,0,mostly sunny,8.22,8,8,n
+2024,2,15,Thursday,23.33,8.24,8.47,42,39,36,57,0,partly cloudy,17.12,4.53,5.1,62,60,39,30,0,sunny,7.31,8,8,n
+2024,2,16,Ftriday,23.42,8.58,9.22,48,46,32,52,2,cloudy,18.47,5.13,5.32,55,53,34,28,0,cloudy,8.36,6,8,n
+2024,2,19,Monday,24.08,7.43,8.07,33,28,24,61,0,sunny,18.29,4.19,4.37,53,51,29,30,0,sunny,6.32,8,8,n
+2024,2,20,Tuesday,25.13,7.43,8.08,32,28,28,55,0,sunny,16.41,4.3,4.47,53,51,31,32,0,mostly cloudy,8.37,8,8,n
+2024,2,21,Wednesday,23.56,7.55,8.19,33,28,28,41,0,sunny,18.42,5.02,5.21,52,50,35,36,0,sunny,7.04,7,8,n
+2024,2,26,Monday,24.29,7.43,8.07,44,40,36,39,0,partly cloudy,16.3,5.55,6.11,62,60,43,44,0,partly cloudy,7.2,8,8,n
+2024,2,27,Tuesday,24.08,7.5,8.14,51,50,42,62,0,cloudy,18.19,4.33,4.51,61,60,55,44,0,cloudy,7.28,8,7,n
+2024,2,28,Wednesday,22.44,7.52,8.15,61,60,50,52,0,drizzle,19.45,4.4,5,69,69,58,43,0,drizzle,7.15,7,8,n
